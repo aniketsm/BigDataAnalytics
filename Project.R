@@ -1,5 +1,5 @@
 rm(list = ls())
-setwd("D:/US 2021/Studies/Big Data Analytics/Project")
+setwd("D:/Studies/Big Data Analytics/Project")
 library(dplyr)
 
 # The data was already split in train and test when downloaded from Kaggle
